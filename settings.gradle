@@ -1,0 +1,2 @@
+rootProject.name='AndroidKeyStoreExample'
+include ':app'
